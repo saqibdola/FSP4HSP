@@ -3,9 +3,9 @@
 
 ### The HSP folder contains:
 
-#### The original, preprocessed and transformws sequences of HSP. 
+#### The original sequences, preprocessed sequences and transformed sequences of six HSP families and NonHSP. 
 
 
 ### The HSP40 folder contains:
 
-#### The original, preprocessed and transformws sequences of HSP40 family (J-protein). 
+#### The original sequence, preprocessed sequence, and transformed sequences of four HSP40 (J-protein) subtypes. 
